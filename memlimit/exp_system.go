@@ -1,7 +1,7 @@
 package memlimit
 
 import (
-	"github.com/pbnjay/memory"
+	"github.com/yonomesh/automemlimit/memory"
 )
 
 // FromSystem returns the total memory of the system.

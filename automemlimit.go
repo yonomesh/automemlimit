@@ -3,7 +3,7 @@ package automemlimit
 import (
 	"log/slog"
 
-	"github.com/KimMachineGun/automemlimit/memlimit"
+	"github.com/yonomesh/automemlimit/memlimit"
 )
 
 func init() {

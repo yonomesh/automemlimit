@@ -3,6 +3,7 @@
 ```
 # fork from KimMachineGun/automemlimit
 https://github.com/KimMachineGun/automemlimit.git
+6d12049dcf3e429d3aeab23c3dd57ee4ce610292
 ```
 
 Automatically set `GOMEMLIMIT` to match Linux [cgroups(7)](https://man7.org/linux/man-pages/man7/cgroups.7.html) memory limit.
